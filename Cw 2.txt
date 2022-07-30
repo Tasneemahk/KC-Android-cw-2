@@ -9,3 +9,15 @@ public class Main
 	}
 }
 
+#Practice 2:
+public class Main
+{
+	public static void main(String[] args) {
+	    int height= 163;
+	    if (height >=160) {
+	         System.out.println("You can enter the roallercoaster.");
+	    }	    else {
+	        System.out.println("Unfortunately you cannot enter the roallercoaster.");
+	    }
+	}
+}
